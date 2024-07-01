@@ -31,5 +31,23 @@
 * image.sysdir.1                   system-images\android-34\google_apis\x86_64\
 * Операционная система: Android 14
 ### Реальное устройство (Рис. 1):  
-<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />  
-Операционная система XOS, Based on Android v14.0.0
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />
+*Рисунок 1. Технические показатели мобильного устройства, на котором предполагается тестирование приложения*  
+
+На Рис. 2 представлен запуск приложения.
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/Start.png" width="800" height="600" />
+*Рисунок 2. Запуск приложения*  
+
+Логин с данными для авторизации (Рис. 3):
+*login2;
+*password2.
+
+
+
+
+
+
+
+Операционная система XOS, Based on Android v14.0.0.
+
+
