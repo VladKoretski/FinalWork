@@ -34,8 +34,9 @@
 <img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />
 *Рисунок 1. Технические показатели мобильного устройства, на котором предполагается тестирование приложения*  
 
-На Рис. 2 представлен запуск приложения.
-<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/Start.png" width="800" height="600" />
+На Рис. 2 представлен запуск приложения.  
+
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/Start.png" width="800" height="600" />  
 *Рисунок 2. Запуск приложения*  
 
 Логин с данными для авторизации (Рис. 3):
