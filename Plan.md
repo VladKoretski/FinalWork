@@ -30,7 +30,6 @@
 * image.androidVersion.api         34
 * image.sysdir.1                   system-images\android-34\google_apis\x86_64\
 * Операционная система: Android 14
-### Реальное устройство (Рис. 1):
-![Рис. 1. Конфигурация реального устройства](https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png)
-<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="200" height="200" />
+### Реальное устройство (Рис. 1):  
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />  
 Операционная система XOS, Based on Android v14.0.0
