@@ -31,20 +31,32 @@
 * image.sysdir.1                   system-images\android-34\google_apis\x86_64\
 * Операционная система: Android 14
 ### Реальное устройство (Рис. 1):  
-<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/realdevice.png" width="400" height="300" />  
+
 _Рисунок 1. Технические показатели мобильного устройства, на котором предполагается тестирование приложения_  
 
 На Рис. 2 представлен запуск приложения.  
 
 <img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/Start.png" width="800" height="600" />  
+
 _Рисунок 2. Запуск приложения_  
 
 Логин с данными для авторизации (Рис. 3):
 * login2;  
 * password2.
 
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/login.png" width="400" height="300" />  
 
+_Рисунок 3. Логин с данными задачи_ 
 
+## Этап 1: планирование: определите «границы» приложения, реализованный функционал и заложите основу для тестов
+
+### “Границы” приложения и реализованный функционал
+Структура приложения представлена на нижеследующей схеме (Рис. 4), которая определяет основной план тестирования работы управляющих элементов, заполняемых форм, гиперссылок при ручном тестировании и создании авто-тестов.
+
+<img src="https://github.com/VladKoretski/FinalWork/blob/main/fig/scheme.png" width="800" height="600" />  
+
+_Рис. 4. Функциональная схема мобильного приложения (Схема построена с помощью [сервиса](https://web.mindonmap.com "MindOnMap"), [ссылка на схему](https://web.mindonmap.com/view/8571d6eddd6ae3d9 "Cхема приложения")
 
 
 
