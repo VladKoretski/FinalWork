@@ -178,6 +178,6 @@ _Рис. 4. Функциональная схема мобильного при�
 * pairwaise-testing (например, при вводе дат)
 
 
-[Ссылка на чек-лист](https://github.com/VladKoretski/FinalWork/blob/main/Check.xlsx "Чек лист")
+[Ссылка на чек-лист](https://github.com/VladKoretski/FinalWork/blob/main/Check.xlsx "Чек лист")  
 [Ссылка на тест-кейсы](https://github.com/VladKoretski/FinalWork/blob/main/Cases.xlsx "Тест-кейсы")
 
