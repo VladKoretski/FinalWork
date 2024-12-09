@@ -1,0 +1,65 @@
+{
+    "name": "mainPageAfterNewsPageLoad",
+    "start": 1732301501922,
+    "stop": 1732301515612,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "11765a90-ecda-4d8c-808c-4c880e65ce5f",
+    "historyId": "35ef929c2cd47dd749d90ca6b175cc3d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainMenuTest.mainPageAfterNewsPageLoad",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "mainPageAfterNewsPageLoad"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1013)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главного меню"
+        },
+        {
+            "name": "feature",
+            "value": "Переход на страницу Авторизации со страницы News"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода на страницу Авторизации со страницы News"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "moveToPrivacyPolicyWebPageTest",
+    "start": 1733169539994,
+    "stop": 1733169554433,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "9510b4a1-4c08-4bc2-8f3f-a9907b0dc34a-attachment.png",
+            "name": "1733169539994",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "1af13fcb-bc55-4c1a-a908-737337945867",
+    "historyId": "752e7e65ab9a99c6de036e5db49b50c5",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest.moveToPrivacyPolicyWebPageTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveToPrivacyPolicyWebPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2033)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Переходы по ссылкам со страницы About"
+        },
+        {
+            "name": "feature",
+            "value": "Ссылка About privacy policy"
+        },
+        {
+            "name": "story",
+            "value": "Проверка открытия страницы"
+        }
+    ]
+}

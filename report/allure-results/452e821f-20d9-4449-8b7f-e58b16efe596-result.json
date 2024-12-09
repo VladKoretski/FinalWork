@@ -1,0 +1,74 @@
+{
+    "name": "inputInvalidHoursByKeyboardWhenAddNewsTest",
+    "start": 1733169071979,
+    "stop": 1733169091531,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "55e88982-053e-4faf-87df-0c01f91d0fbb-attachment.png",
+            "name": "1733169071980",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "452e821f-20d9-4449-8b7f-e58b16efe596",
+    "historyId": "cc64e5f08b1e113de48c1e730e4f9866",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputInvalidHoursByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputInvalidHoursByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1983)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Ввод невалидного значения часа и валидного минут с клавиатуры при создании новости"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "checkLoginButtonExistenceTest",
+    "start": 1733170511170,
+    "stop": 1733170524747,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "b98bfd28-8bac-486a-b39a-d7f7a4440c19-attachment.png",
+            "name": "1733170511170",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "80612a34-da5b-4a1e-b52a-8239819afa24",
+    "historyId": "2aa8e84389ec7f8a9a25950e4c171567",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkLoginButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkLoginButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2078)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница авторизации"
+        },
+        {
+            "name": "story",
+            "value": "Проверка наличия кнопки ОК"
+        }
+    ]
+}

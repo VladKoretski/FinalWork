@@ -1,0 +1,74 @@
+{
+    "name": "checkLoginLineExistenceTest",
+    "start": 1733768800535,
+    "stop": 1733768814110,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "c482c1b7-3c96-4c35-b5dc-3eab6300f42d-attachment.png",
+            "name": "1733768800535",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "15e05afc-5fbc-4b82-99a9-5d833e043868",
+    "historyId": "1d671eedfb85a6588af95b0a73d3f460",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkLoginLineExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkLoginLineExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2074)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница авторизации"
+        },
+        {
+            "name": "story",
+            "value": "Проверка наличия строки ввода логина"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "moveToMissionPageFromNewsPageTest",
+    "start": 1733170880333,
+    "stop": 1733170893644,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "c9512f25-b936-4596-beb3-02a6b4537830-attachment.png",
+            "name": "1733170880333",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "520a4783-f1a4-4ed1-baea-cb55524d879b",
+    "historyId": "2f67282c87af79f4bc6a689fdace7876",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest.moveToMissionPageFromNewsPageTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveToMissionPageFromNewsPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2078)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование перехода страницу Our Mission c разных страниц"
+        },
+        {
+            "name": "feature",
+            "value": "Переход со страницы News"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода со страницы о News на страницу Our Mission"
+        }
+    ]
+}

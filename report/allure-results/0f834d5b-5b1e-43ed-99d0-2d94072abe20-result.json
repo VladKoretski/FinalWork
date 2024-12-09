@@ -1,0 +1,74 @@
+{
+    "name": "checkLogoutButtonExistenceTest",
+    "start": 1733168273946,
+    "stop": 1733168286522,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "eb73b93b-76b4-4402-aab0-3b610c652957-attachment.png",
+            "name": "1733168273946",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "0f834d5b-5b1e-43ed-99d0-2d94072abe20",
+    "historyId": "edf4c6e3ba2ca9f98b111fa83fa29184",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkLogoutButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkLogoutButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1957)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Главная страница"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице кнопки авторизации"
+        }
+    ]
+}

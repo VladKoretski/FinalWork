@@ -1,0 +1,65 @@
+{
+    "name": "moveToTermsOfUseWebPage",
+    "start": 1732301349778,
+    "stop": 1732301364755,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "257e02d2-9bd7-4aa9-aefc-b9846d766c32",
+    "historyId": "eb3c3053504b14e4b00d008caf7038dd",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest.moveToTermsOfUseWebPage",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveToTermsOfUseWebPage"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageLinksTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1013)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Переходы по ссылкам со страницы About"
+        },
+        {
+            "name": "feature",
+            "value": "Ссылка About terms of use"
+        },
+        {
+            "name": "story",
+            "value": "Проверка открытия страницы"
+        }
+    ]
+}

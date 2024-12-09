@@ -1,0 +1,74 @@
+{
+    "name": "checkSortNewsCategoryButtonExistenceTest",
+    "start": 1733168190088,
+    "stop": 1733168209547,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "6855663e-9adf-47ef-8160-93743e3b8503-attachment.png",
+            "name": "1733168190088",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "9f746e96-ac9a-4864-877a-761f45999bdf",
+    "historyId": "ec49564574e3225c090d657616478f34",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkSortNewsCategoryButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkSortNewsCategoryButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1957)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница новости"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице сортировки новостей"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "checkGoToMissionButtonExistenceTest",
+    "start": 1733768734356,
+    "stop": 1733768747097,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "d5638737-5436-4fda-9d7c-2ad51423c5db-attachment.png",
+            "name": "1733768734356",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "7194316d-d8ef-43d4-8efe-0180f911ccf2",
+    "historyId": "dd3d35f450392142b3e11b554981ee1e",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkGoToMissionButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkGoToMissionButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2074)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Главная страница"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице кнопки перехада в раздел Наша миссия"
+        }
+    ]
+}

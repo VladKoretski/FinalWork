@@ -1,0 +1,69 @@
+{
+    "name": "fromAboutToMainPageWithBackButton",
+    "start": 1733769500914,
+    "stop": 1733769515564,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "9fad2cd2-6b14-4e5a-8fdf-eb019639494c",
+    "historyId": "631014a9ca33ca871895b0d7c38ccf10",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainMenuTest.fromAboutToMainPageWithBackButton",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "fromAboutToMainPageWithBackButton"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(2132)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главного меню"
+        },
+        {
+            "name": "feature",
+            "value": "Переход со страницы About на страницу Main"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода на страницу авторизации со страницы About с помощью кнопки НАЗАД"
+        }
+    ]
+}

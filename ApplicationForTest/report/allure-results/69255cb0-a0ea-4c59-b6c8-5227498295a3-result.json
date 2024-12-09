@@ -1,0 +1,65 @@
+{
+    "name": "moveToMissionPageFromAboutPageTest",
+    "start": 1732300080649,
+    "stop": 1732300094871,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "69255cb0-a0ea-4c59-b6c8-5227498295a3",
+    "historyId": "8ac63b20664ccb4b76368ec8d869ba5d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest.moveToMissionPageFromAboutPageTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveToMissionPageFromAboutPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(7661)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование перехода страницу Our Mission c разных страниц"
+        },
+        {
+            "name": "feature",
+            "value": "Переход со страницы About"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода со страницы о приложении на страницу Our Mission"
+        }
+    ]
+}

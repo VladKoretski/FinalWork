@@ -1,0 +1,65 @@
+{
+    "name": "newsAddWithKeyboardInputInvalidValueOfMinutesTest",
+    "start": 1732306046611,
+    "stop": 1732306061735,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "36ceba13-52dd-43ad-954b-ad596b6d8f17",
+    "historyId": "2b849cbb54c47c34a70818da760f2d6b",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.newsAddWithKeyboardInputInvalidValueOfMinutesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "newsAddWithKeyboardInputInvalidValueOfMinutesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(1584)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление новости с вводом невалидного значения часа и валидного минут с клавиатуры"
+        }
+    ]
+}
