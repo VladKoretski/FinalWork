@@ -15,7 +15,8 @@
   3. [операции с новостями](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/NewsPageFunctionsTest.java);
   4. [переходы со страницы About на сторонние ссылки](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/AboutPageLinksTest.java);
   5. [тестирование главного меню](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/MainMenuTest.java);
-  6. [переходы на страницу Наша миссия](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/OurMissionPageTest.java);    
+  6. [переходы на страницу Наша миссия](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/OurMissionPageTest.java)  
+* [allure report](https://github.com/VladKoretski/FinalWork/tree/main/report)   
   
 ## Этап 3.
 
