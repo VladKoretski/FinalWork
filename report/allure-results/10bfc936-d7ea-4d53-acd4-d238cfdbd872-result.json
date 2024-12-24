@@ -1,0 +1,74 @@
+{
+    "name": "addTodayNewsTest",
+    "start": 1735051359789,
+    "stop": 1735051378484,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "3262c837-d51b-4626-929a-23a26d575e7e-attachment.png",
+            "name": "1735051359789",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "10bfc936-d7ea-4d53-acd4-d238cfdbd872",
+    "historyId": "513f042cc045310e34dfa12e538bdd21",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.addTodayNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "addTodayNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(17170)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление сегодняшней новости"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "checkPasswordLineExistenceTest",
+    "start": 1735042300549,
+    "stop": 1735042314327,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "27b75a82-0e6f-4488-b3dc-4978b06fb1b3-attachment.png",
+            "name": "1735042300549",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "4480e026-0ff5-4344-bebe-bd056996ee17",
+    "historyId": "d17f9610b91e2cc45b4352d6c560a9fb",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkPasswordLineExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkPasswordLineExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16827)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница авторизации"
+        },
+        {
+            "name": "story",
+            "value": "Проверка наличия строки ввода пароля"
+        }
+    ]
+}

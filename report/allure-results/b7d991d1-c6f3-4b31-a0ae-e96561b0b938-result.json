@@ -1,0 +1,74 @@
+{
+    "name": "inputBoundaryHoursMinusOneByKeyboardWhenAddNewsTest",
+    "start": 1735042675885,
+    "stop": 1735042692610,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "241f697d-44a1-4e0e-8e89-3eeab047a127-attachment.png",
+            "name": "1735042675885",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "b7d991d1-c6f3-4b31-a0ae-e96561b0b938",
+    "historyId": "50ca94bf40cb9abc73475a5dbc3db028",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputBoundaryHoursMinusOneByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputBoundaryHoursMinusOneByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости - граничные условия времени"
+        },
+        {
+            "name": "story",
+            "value": "Ввод значения часа = 23 и валидного минут с клавиатуры при создании новости"
+        }
+    ]
+}

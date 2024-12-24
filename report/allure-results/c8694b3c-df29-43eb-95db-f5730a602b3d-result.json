@@ -1,0 +1,74 @@
+{
+    "name": "moveByMainMenuToAuthorizationPageFromNewsPageTest",
+    "start": 1735051296731,
+    "stop": 1735051312759,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "4e71dd26-4c0c-4800-ad22-964be0dc7d44-attachment.png",
+            "name": "1735051296731",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "c8694b3c-df29-43eb-95db-f5730a602b3d",
+    "historyId": "91a4b4c23dd9345011737fbc052a95ff",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainMenuTest.moveByMainMenuToAuthorizationPageFromNewsPageTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveByMainMenuToAuthorizationPageFromNewsPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(17170)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главного меню"
+        },
+        {
+            "name": "feature",
+            "value": "Переход на страницу Авторизации со страницы News"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода на страницу Авторизации со страницы News"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "checkEditNewsButtonExistenceTest",
+    "start": 1735051226845,
+    "stop": 1735051239293,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "b87ec1a9-7181-4a25-9556-aaab665f63f8-attachment.png",
+            "name": "1735051226845",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "65b3f91a-4ab8-4b92-805e-dac457597850",
+    "historyId": "80f8df0bd7450efc2319cda480927159",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkEditNewsButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkEditNewsButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(17170)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница новости"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице кнопки редактирования новостей"
+        }
+    ]
+}

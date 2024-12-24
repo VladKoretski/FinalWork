@@ -1,0 +1,74 @@
+{
+    "name": "inputEmptyLoginTest",
+    "start": 1735041106174,
+    "stop": 1735041119381,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "4c177e57-7927-4908-a2a8-9a2a6a9bac02-attachment.png",
+            "name": "1735041106174",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "5799265a-bc03-437b-b993-95622bf969f3",
+    "historyId": "961f26b0406df4036cf5f2eaf217d310",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.inputEmptyLoginTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputEmptyLoginTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(72)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Незарегистрированный пользователь"
+        },
+        {
+            "name": "story",
+            "value": "Ввод пустого логина"
+        }
+    ]
+}

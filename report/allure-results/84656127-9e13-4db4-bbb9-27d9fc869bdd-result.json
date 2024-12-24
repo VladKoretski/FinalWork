@@ -1,0 +1,74 @@
+{
+    "name": "inputCyrillicLoginTest",
+    "start": 1735041209542,
+    "stop": 1735041221140,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "6af55e7d-97cd-42f5-b9ae-ccda395beee2-attachment.png",
+            "name": "1735041209542",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "84656127-9e13-4db4-bbb9-27d9fc869bdd",
+    "historyId": "43c4710ab41fc96a79500d28a24de546",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.inputCyrillicLoginTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputCyrillicLoginTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Незарегистрированный пользователь"
+        },
+        {
+            "name": "story",
+            "value": "Ввод невалидных кириллических данных"
+        }
+    ]
+}

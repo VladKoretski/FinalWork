@@ -1,0 +1,74 @@
+{
+    "name": "inputValidRegisteredLoginAndPasswordTest",
+    "start": 1735041087872,
+    "stop": 1735041106133,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "c9e185a6-3a0c-484d-b29e-7d066d3d6f0c-attachment.png",
+            "name": "1735041087877",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "287470a1-7647-4e74-b971-799db57511da",
+    "historyId": "664ff8da12d7ba839e62507b6d040d66",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.inputValidRegisteredLoginAndPasswordTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputValidRegisteredLoginAndPasswordTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(72)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Зарегистрированный пользователь"
+        },
+        {
+            "name": "story",
+            "value": "Ввод валидных данных зарегистрированного пользователя"
+        }
+    ]
+}

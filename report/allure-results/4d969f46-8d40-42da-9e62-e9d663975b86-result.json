@@ -1,0 +1,74 @@
+{
+    "name": "checkMainMenuExistenceTest",
+    "start": 1735051118836,
+    "stop": 1735051130377,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "bf8a6dbf-d0ed-4a94-ba63-750979e69180-attachment.png",
+            "name": "1735051118836",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "4d969f46-8d40-42da-9e62-e9d663975b86",
+    "historyId": "1a5bbae51e56ce8e11035780f98da2e",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkMainMenuExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkMainMenuExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(17170)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Главная страница"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице главного меню"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "inputInvalidTimeByKeyboardWhenAddNewsTest",
+    "start": 1735042571106,
+    "stop": 1735042587466,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "f33df57f-1241-481f-a9b3-5f901e6b229b-attachment.png",
+            "name": "1735042571106",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "eb41660c-7d3b-4b64-b067-94543aab8c38",
+    "historyId": "d89d7ec75ffd7447e4c26a785505b5ee",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputInvalidTimeByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputInvalidTimeByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Ввод невалидного значения часа и минут с клавиатуры"
+        }
+    ]
+}

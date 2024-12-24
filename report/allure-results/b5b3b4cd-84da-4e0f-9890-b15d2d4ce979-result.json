@@ -1,0 +1,74 @@
+{
+    "name": "inputLongUnregisteredLoginTest",
+    "start": 1735042967836,
+    "stop": 1735042979560,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "7a272e41-a5ce-41ab-98ce-234ee67e1e2f-attachment.png",
+            "name": "1735042967836",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "b5b3b4cd-84da-4e0f-9890-b15d2d4ce979",
+    "historyId": "b9aa2afed2082e541176513d874ef170",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.inputLongUnregisteredLoginTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputLongUnregisteredLoginTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16878)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Незарегистрированный пользователь"
+        },
+        {
+            "name": "story",
+            "value": "Ввод невалидной длинной строки"
+        }
+    ]
+}

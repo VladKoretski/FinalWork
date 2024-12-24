@@ -1,0 +1,74 @@
+{
+    "name": "checkIfAuthorizationPageLoadedTest",
+    "start": 1735040394293,
+    "stop": 1735040405315,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "5888173c-b5b5-47df-8369-82325d0c9bea-attachment.png",
+            "name": "1735040394293",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "7532d8cf-68b2-432f-82fe-3982a02c4608",
+    "historyId": "a5f08b5bee1055799f7eba92ec0a1791",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.checkIfAuthorizationPageLoadedTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkIfAuthorizationPageLoadedTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16672)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Открытие страницы"
+        },
+        {
+            "name": "story",
+            "value": "Проверка открытия страницы"
+        }
+    ]
+}

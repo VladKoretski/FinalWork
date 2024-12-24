@@ -1,0 +1,74 @@
+{
+    "name": "checkGoToMissionButtonExistenceTest",
+    "start": 1735042350135,
+    "stop": 1735042363250,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "90dbefc6-6f90-46d5-9399-a409fe4dc439-attachment.png",
+            "name": "1735042350136",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "a68fdc93-51c3-47fd-8e23-51996f71f1d8",
+    "historyId": "dd3d35f450392142b3e11b554981ee1e",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkGoToMissionButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkGoToMissionButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Главная страница"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице кнопки перехада в раздел Наша миссия"
+        }
+    ]
+}

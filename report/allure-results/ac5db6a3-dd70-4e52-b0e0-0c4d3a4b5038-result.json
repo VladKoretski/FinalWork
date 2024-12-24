@@ -1,0 +1,74 @@
+{
+    "name": "addNextMonthTest",
+    "start": 1735043378511,
+    "stop": 1735043398361,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "9e0bb80a-9fe7-486d-82e0-c3a11c65240c-attachment.png",
+            "name": "1735043378511",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "ac5db6a3-dd70-4e52-b0e0-0c4d3a4b5038",
+    "historyId": "dad9fcfd558d932512a6058f4ac3113d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.addNextMonthTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "addNextMonthTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16878)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление новости со случайной датой в следующем месяце"
+        }
+    ]
+}

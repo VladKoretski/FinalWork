@@ -1,0 +1,74 @@
+{
+    "name": "inputInvalidMinutesByKeyboardWhenAddNewsTest",
+    "start": 1735039747949,
+    "stop": 1735039764010,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "d785a77c-4d82-4e7b-b228-a5ef2303ad69-attachment.png",
+            "name": "1735039747949",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "f960d922-57e8-44a2-b08d-ef0430e5c1d2",
+    "historyId": "1c9744f5b0d72861533b281ef0f14d95",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputInvalidMinutesByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputInvalidMinutesByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16611)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление новости с вводом невалидного значения часа и валидного минут с клавиатуры"
+        }
+    ]
+}

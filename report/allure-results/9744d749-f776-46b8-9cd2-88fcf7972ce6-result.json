@@ -1,0 +1,74 @@
+{
+    "name": "inputBoundaryMinutesByKeyboardWhenAddNewsTest",
+    "start": 1735040781662,
+    "stop": 1735040797711,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "8a31e5e8-773f-4a3e-8e4d-d99505a1337d-attachment.png",
+            "name": "1735040781662",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "9744d749-f776-46b8-9cd2-88fcf7972ce6",
+    "historyId": "c5ddba583b4b48b66dd40153608683d2",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputBoundaryMinutesByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputBoundaryMinutesByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16672)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление новости с вводом валидного значения часа и значения минут = 60 с клавиатуры"
+        }
+    ]
+}

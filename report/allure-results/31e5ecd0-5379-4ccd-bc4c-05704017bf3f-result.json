@@ -1,0 +1,74 @@
+{
+    "name": "checkFilterNewsCategoryButtonExistenceTest",
+    "start": 1735042431217,
+    "stop": 1735042443883,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "0ba82b1d-f132-483a-8221-d09c3cd04a5f-attachment.png",
+            "name": "1735042431218",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "31e5ecd0-5379-4ccd-bc4c-05704017bf3f",
+    "historyId": "bd70b82f3bc376dddcc54778e3be9882",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkFilterNewsCategoryButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkFilterNewsCategoryButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница новости"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице фильтрования новостей"
+        }
+    ]
+}

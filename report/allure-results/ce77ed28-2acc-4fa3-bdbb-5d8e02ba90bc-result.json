@@ -1,0 +1,74 @@
+{
+    "name": "inputBoundaryMinutesMinusOneByKeyboardWhenAddNewsTest",
+    "start": 1735042639487,
+    "stop": 1735042655636,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "3c8d3aeb-4bb5-4ef1-bf58-ebefb6a0144a-attachment.png",
+            "name": "1735042639487",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "ce77ed28-2acc-4fa3-bdbb-5d8e02ba90bc",
+    "historyId": "5ab96a4ea5c419f1d22965be11085789",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest.inputBoundaryMinutesMinusOneByKeyboardWhenAddNewsTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputBoundaryMinutesMinusOneByKeyboardWhenAddNewsTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NewsPageFunctionsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(82)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Управление новостями"
+        },
+        {
+            "name": "feature",
+            "value": "Добавление новости"
+        },
+        {
+            "name": "story",
+            "value": "Добавление новости с вводом значения часа и значения минут = 59 с клавиатуры"
+        }
+    ]
+}

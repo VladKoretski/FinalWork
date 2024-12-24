@@ -1,0 +1,74 @@
+{
+    "name": "checkSortNewsCategoryButtonExistenceTest",
+    "start": 1735040508872,
+    "stop": 1735040521542,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "e94c952a-980d-4264-95dd-ac4419f71248-attachment.png",
+            "name": "1735040508872",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "f0f364d2-60d7-4306-aebc-f5e879f154bb",
+    "historyId": "ec49564574e3225c090d657616478f34",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkSortNewsCategoryButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkSortNewsCategoryButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16672)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница новости"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице сортировки новостей"
+        }
+    ]
+}

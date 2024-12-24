@@ -1,0 +1,74 @@
+{
+    "name": "checkFilterNewsCategoryButtonExistenceTest",
+    "start": 1735042437383,
+    "stop": 1735042449893,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "9fb14654-fa94-45e6-8310-7a1de8d29e0c-attachment.png",
+            "name": "1735042437383",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "0d578d82-939a-4dd4-8150-ca41f9244e29",
+    "historyId": "bd70b82f3bc376dddcc54778e3be9882",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest.checkFilterNewsCategoryButtonExistenceTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkFilterNewsCategoryButtonExistenceTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ElementsExistenceTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16827)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Существование элементов на страницах"
+        },
+        {
+            "name": "feature",
+            "value": "Страница новости"
+        },
+        {
+            "name": "story",
+            "value": "Наличие на странице фильтрования новостей"
+        }
+    ]
+}

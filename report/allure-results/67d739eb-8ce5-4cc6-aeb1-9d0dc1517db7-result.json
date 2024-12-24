@@ -1,0 +1,74 @@
+{
+    "name": "moveToMissionPageFromAboutPageTest",
+    "start": 1735043465012,
+    "stop": 1735043479045,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "aef450d3-62cf-4782-babd-483ba123db27-attachment.png",
+            "name": "1735043465012",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "67d739eb-8ce5-4cc6-aeb1-9d0dc1517db7",
+    "historyId": "8ac63b20664ccb4b76368ec8d869ba5d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest.moveToMissionPageFromAboutPageTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveToMissionPageFromAboutPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.OurMissionPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16878)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование перехода страницу Our Mission c разных страниц"
+        },
+        {
+            "name": "feature",
+            "value": "Переход со страницы About"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода со страницы о приложении на страницу Our Mission"
+        }
+    ]
+}

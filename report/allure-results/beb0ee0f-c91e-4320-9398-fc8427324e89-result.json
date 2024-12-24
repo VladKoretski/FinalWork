@@ -1,0 +1,74 @@
+{
+    "name": "moveByMainMenuToMissionPageTest",
+    "start": 1735043219030,
+    "stop": 1735043231675,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "1461b3bd-461f-4768-90f4-e138f7ca7fc1-attachment.png",
+            "name": "1735043219030",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "beb0ee0f-c91e-4320-9398-fc8427324e89",
+    "historyId": "7ddd804c7233822853c0469153a9c316",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.MainMenuTest.moveByMainMenuToMissionPageTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "moveByMainMenuToMissionPageTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.MainMenuTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16878)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главного меню"
+        },
+        {
+            "name": "feature",
+            "value": "Переход на страницу Наша Миссия"
+        },
+        {
+            "name": "story",
+            "value": "Проверка перехода на страницу Наша Миссия после авторизации"
+        }
+    ]
+}

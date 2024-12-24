@@ -1,0 +1,74 @@
+{
+    "name": "inputValidRegisteredLoginAndPasswordTest",
+    "start": 1735042179026,
+    "stop": 1735042192109,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "aa6e29ca-1c27-48d1-8ca4-e86320f23e34-attachment.png",
+            "name": "1735042179027",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "c86df4d5-f8fa-4df5-9101-147eddbde544",
+    "historyId": "664ff8da12d7ba839e62507b6d040d66",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest.inputValidRegisteredLoginAndPasswordTest",
+    "labels": [
+        {
+            "name": "epic",
+            "value": "#project.description#"
+        },
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "inputValidRegisteredLoginAndPasswordTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(16827)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        },
+        {
+            "name": "feature",
+            "value": "Зарегистрированный пользователь"
+        },
+        {
+            "name": "story",
+            "value": "Ввод валидных данных зарегистрированного пользователя"
+        }
+    ]
+}
