@@ -20,8 +20,8 @@
   5. [тестирование главного меню](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/MainMenuTest.java);
   6. [переходы на страницу Наша миссия](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/OurMissionPageTest.java)  
 * allure report
-  1. [файлы для запуска allure report](https://github.com/VladKoretski/FinalWork/tree/main/report)
-  2. принтскрины allure-report   
+  1. [файлы для запуска allure report](https://github.com/VladKoretski/FinalWork/tree/main/report);
+  2. [принтскрины allure-report](https://github.com/VladKoretski/FinalWork/blob/main/AllureReport.md)  
   
 ## Этап 3.
 
