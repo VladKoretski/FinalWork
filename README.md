@@ -6,8 +6,8 @@
 
 ## Этап 2. Автоматизация проверки приложения  
 Настройка проекта перед написанием UI-тестов:  
-* [необходимые библиотеки](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/build.gradle);  
-* [директория для тестов](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/app/src/androidTest);  
+* [необходимые библиотеки - build.gradle](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/build.gradle);  
+* [директория для тестов](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui);  
 * [тестовый класс](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests);  
 * UI-тесты:  
   1. [существование элементов на страницах](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/ElementsExistenceTest.java);  
