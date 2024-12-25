@@ -8,7 +8,7 @@
 Настройка проекта перед написанием UI-тестов:  
 * [необходимые библиотеки - build.gradle](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/build.gradle);  
 * [директория для тестов](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui):
-  1. [Константы, генераторы случаныйх текстов, генераторы случайных дат и времени];(https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/datasources)
+  1. [Константы, генераторы случаныйх текстов, генераторы случайных дат и времени](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/datasources);
   2. [Действия с управляющими элементами, чеккеры и операции со страницами](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/operations);  
   3. [Тесты](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests);  
 * [тестовый класс](https://github.com/VladKoretski/FinalWork/tree/main/ApplicationForTest/app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests);  
