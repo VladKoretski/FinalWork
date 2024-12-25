@@ -2,7 +2,7 @@
 Представлены некоторые основные результаты тестирования, представленные в графическом редакторе
 
 1. Проведено 43 теста, успешно - более 87% тестов
-![Главное меню]([https://example.com/image.jpg](https://github.com/VladKoretski/FinalWork/blob/main/scans/mainpage.png))
+![Главное меню](https://example.com/image.jpg](https://github.com/VladKoretski/FinalWork/blob/main/scans/mainpage.png)
 
 ## Цели проекта  
 Дипломная работа поможет закрепить знания и навыки по автоматизации тестирования мобильных приложений.  
