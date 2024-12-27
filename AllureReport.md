@@ -1,5 +1,5 @@
 # Allure-Report  
-Представлены некоторые основные результаты тестирования, представленные в [графическом редакторе](https://github.com/VladKoretski/FinalWork/tree/main/report)
+Представлены некоторые основные результаты тестирования, представленные в [графическом представлении Allure-Report](https://github.com/VladKoretski/FinalWork/tree/main/report)
 
   1. Проведено 43 теста, успешно - более 87% тестов  
 ![Главное меню](https://github.com/VladKoretski/FinalWork/blob/main/scans/mainpage.png)
