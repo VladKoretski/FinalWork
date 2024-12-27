@@ -10,7 +10,7 @@
 * фильтрация (10 кейсов);  
 * удаление новостей (2 кейса);  
 * изменение даты и времени новости (14 кейсов);  
-* создание новости (11 кейсов)
+* создание новости (11 кейсов)  
 [Итоговая таблица](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FVladKoretski%2FFinalWork%2Frefs%2Fheads%2Fmain%2FCases.xlsx&wdOrigin=BROWSELINK)  
  
 ### В ходе автоматизированного тестирования, было проверено тестирование следующих элементов и функционала приложения:  
