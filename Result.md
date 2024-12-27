@@ -1,21 +1,24 @@
 # **Отчёт о проведённом тестировании**
 
-**Проведено тестирование мобильного приложения "Мобильный хоспис".**
+## Проведено тестирование мобильного приложения "Мобильный хоспис"
 
-В ходе тестирования, было проверено:
-
-  - **1.** **Существование объектов на страницах приложения;**
-
-  - **2.** **Страница "Авторизация";**
-
-  - **3.** **Функционал "Главного меню";**
-
-  - **4.** **Функционал страницы "Новости";**
-  
-  - **5.** **Страница "Наша миссия";**
-    
-  - **6.** **Страница "О приложении";**
-
+### В ходе ручного тестирования, было проверено тестирование следующих элементов и функционала приложения:  
+1. Страница "Авторизация пользователя" (11 кейсов);
+2. Переходы на сторонние страницы со страницы "О приложении" (2 кейса);
+3. Навигация по разделам приложения (8 кейсов);
+4. Функционал страницы "Новости":
+* фильтрация (10 кейсов)
+* удаление новостей (2 кейса)
+* изменение даты и времени новости (14 кейсов)
+* создание новости (11 кейсов) 
+ 
+### В ходе автоматизированного тестирования, было проверено тестирование следующих элементов и функционала приложения:  
+1. [Существование объектов на страницах приложения](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/ElementsExistenceTest.java) (13 кейсов);
+2. [Страница "Авторизация пользователя"](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/AuthorizationPageTest.java) (8 кейсов);
+3. [Функционал "Главного меню"](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/MainMenuTest.java) (4 кейса);  
+4. [Функционал страницы "Новости"](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/NewsPageFunctionsTest.java) (13 кейсов);  
+5. [Страница "Наша миссия"](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/OurMissionPageTest.java) (3 кейса);
+6. [Страница "О приложении"](https://github.com/VladKoretski/FinalWork/blob/main/ApplicationForTest/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/AboutPageLinksTest.java) (2 кейса)  
 
 ## Количество тест-кейсов
 **Ручное тестирование:**
