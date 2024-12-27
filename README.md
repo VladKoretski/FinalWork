@@ -23,5 +23,7 @@
   1. [файлы для запуска allure report](https://github.com/VladKoretski/FinalWork/tree/main/report);
   2. [принтскрины allure-report](https://github.com/VladKoretski/FinalWork/blob/main/AllureReport.md)  
   
-## Этап 3.
+## Этап 3. Результаты тестирования
+Отчет о тестировании: [Result.md](https://github.com/VladKoretski/FinalWork/blob/main/Result.md)  
+Описание дефектов тестирования: [Баг-репорт]()
 
